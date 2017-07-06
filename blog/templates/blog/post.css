@@ -1,0 +1,18 @@
+body{
+  background-color: #000;
+  background-image: url(http://allswalls.com/images/new-york-buildings-skyscrapers-night-wallpaper-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  font-weight: bold;
+  font-family: Courier, serif, sans-serif;
+  text-align: center;
+  color:#C0C0C0;
+  font-size: 40px;
+}
+p{
+  color: #555555;
+  text-align: center;
+  font-family: monospace;
+}
